@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/grape/AndroidStudioProjects/QuizApp2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/grape/AndroidStudioProjects/QuizApp2/app/src/main/res/drawable/background_btn_selected.xml" value="0.30462962962962964" />
+        <entry key="..\:/Users/grape/AndroidStudioProjects/QuizApp2/app/src/main/res/drawable/background_btn_unselected.xml" value="0.30462962962962964" />
+        <entry key="..\:/Users/grape/AndroidStudioProjects/QuizApp2/app/src/main/res/drawable/background_selector.xml" value="0.30462962962962964" />
+        <entry key="..\:/Users/grape/AndroidStudioProjects/QuizApp2/app/src/main/res/layout/activity_main.xml" value="0.21238937336105165" />
       </map>
     </option>
   </component>
